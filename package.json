@@ -1,0 +1,26 @@
+{
+  "name": "drpx-updateable",
+  "version": "0.0.1",
+  "description": "Simple Angular tool to eventually broadcast message when a component is updated",
+  "main": "drpx-updateable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drpicox/drpx-updateable"
+  },
+  "keywords": [
+    "angularjs",
+    "updateable",
+    "update",
+    "observer",
+    "directive"
+  ],
+  "author": "David Rodenas <david.rodenas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drpicox/drpx-updateable/issues"
+  },
+  "homepage": "https://github.com/drpicox/drpx-updateable"
+}
