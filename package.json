@@ -2,7 +2,7 @@
   "name": "drpx-updateable",
   "version": "0.0.2",
   "description": "Simple Angular tool to eventually broadcast message when a component is updated",
-  "main": "drpx-updateable.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
