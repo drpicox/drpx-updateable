@@ -1,6 +1,6 @@
 {
   "name": "drpx-updateable",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Simple Angular tool to eventually broadcast message when a component is updated",
   "main": "index.js",
   "scripts": {
